@@ -6,7 +6,7 @@ The 2 items above are not owned by me. They go to there respected owners
 
 
 ## Preview
-![Preview](https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/GGOThumbnail.PNG)
+![Preview](https://cdn.discordapp.com/attachments/1150156471208775867/1160283798131454174/image.png?ex=6534197e&is=6521a47e&hm=baebcb2a21716e83ebad274a1d2faeb1e2d06409e87977b3e40197fe85d8ace7&)
 
 
 ## Download
@@ -15,12 +15,12 @@ There is 2 methods of downloading this theme, Direct download and Save Page As.
 ### Method 1: Direct Download
 Direct Download links like these are will regularly appear in BetterDiscord server and will be under theme and plugin repos. Click on the following link to start the theme download.
 
-Link: https://betterdiscord.app/theme/GGO%20Kirito
+
 
 ### Method 2: Save Page As
 This method is used when you're downloading this theme from here, my github repo, and you don't want to waste your time downloading the entire repo.
 
-1. Click on the file called `GGO_Kirito.theme.css`.
+1. Click on the file called `itachi.theme.css`.
 1. Click on the button called `Raw` at the top right of the file.
 1. Right click anywhere on page and Click `Save Page As`.
 1. Now you can navigate to your themes folder and save it there but for this procedure, just save it to your `Downloads` folder for now, we'll move it later in the Installation.
