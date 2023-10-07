@@ -7,7 +7,7 @@
  */
 
 @import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
-@import url('https://raw.githack.com/TOMxSurya/Discord_themes/core.css');
+@import url('https://raw.githack.com/TOMxSurya/Discord_themes/main/Naruto/core.css');
 :root{
     --background: url('https://cdn.discordapp.com/attachments/1150156471208775867/1160268808888524810/pxfuel_5.jpg?ex=65340b88&is=65219688&hm=1c3772cf47a27f22d3a22f51245ba453b664dbf75a0020ce092ef31a05cdb6fa&');
     --activetext-colour: white;
@@ -27,7 +27,7 @@
     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 }
 /*
-Theme Owned and Made by VaporousCreeper#9514
+Theme Owned and Made by TOMxSurya
   
 Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
 Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
