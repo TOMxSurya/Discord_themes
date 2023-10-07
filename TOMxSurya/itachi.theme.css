@@ -1,5 +1,5 @@
 /**
- * @name GGO Kirito
+ * @name itachi
  * @author VaporousCreeper
  * @version 1.3.X
  * @description A theme with Kirito and Deathgun fighting in GGO (Gun Gale Online)
@@ -10,22 +10,22 @@
 @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://images.alphacoders.com/632/632525.png');
+    --background: url('https://cdn.discordapp.com/attachments/1150156471208775867/1160274942856794132/wallpaperflare.com_wallpaper.jpg?ex=6534113f&is=65219c3f&hm=3a634d9dc2a68c1edabbaefde4c1abfd1f2b37ef7b8b573fc3e8aa6357199e70&');
     --activetext-colour: white;
 
-    --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
+    --primary1-colour: rgba(255, 0, 0, 0.425);
+    --primary2-colour: rgba(255, 0, 0, 0.329);
     --primary3-colour: rgba(100,0,0,0.6);
 
-    --secondary1-colour: rgba(50,50,50,0.3);
-    --secondary2-colour: rgba(100,100,100,0.5);
-    --secondary3-colour: rgba(0,0,0,0.5);
+    --secondary1-colour: rgba(0, 0, 0, 0.5);
+    --secondary2-colour: rgba(0, 0, 0, 0.5);
+    --secondary3-colour: rgba(0, 0, 0, 0.5);
 
-    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-1: linear-gradient(to right, rgba(255, 0, 0, 0.342), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(255, 0, 0, 0.363), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to left, rgba(255, 0, 0, 0.205), rgba(0, 0, 0, 0));
+    --transparency-4: linear-gradient(to left, rgb(12, 12, 12), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to left, rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5));
 }
   
 /*
